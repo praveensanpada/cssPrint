@@ -1,0 +1,46 @@
+body{
+	background-color: red;
+}
+
+h3{
+	color: red;
+}
+h5{
+	color: #f5e642;
+}
+
+h1{
+	color: #f5e642;
+}
+
+
+.footer{
+	font-size: 52px;
+	color: blue;
+}
+
+
+a::after{
+	content: attr(href);
+	font-size: 40px;
+}
+
+a::before{
+	content: "Press on link";
+}
+
+img{
+	border-radius: 50%;
+}
+
+
+.bre{
+	page-break-after: right;
+}
+
+
+
+img::after{
+	content: attr(alt);
+	
+}

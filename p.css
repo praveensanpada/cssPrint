@@ -1,0 +1,26 @@
+body{
+	background-color: #daf1f2;
+
+}
+
+h3{
+	color: green;
+}
+
+h1{
+	color: #f5e642;
+}
+
+h5{
+	color: #d9b518;
+
+	font-size: 19px;
+
+	font-family: "Times New Roman", Times, serif;
+}
+
+a{
+	text-decoration: none;
+	color: green;
+	font-size: 20px;
+}
